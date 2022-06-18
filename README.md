@@ -1,4 +1,4 @@
-This is an undergoing project which I plan to be a clone of Canvas Instructure. Till now, I've added a Todo app, a home page, a calendar and event management.
+This is an undergoing project which I plan to be a clone of Canvas Infrastructure. Till now, I've added a Todo app, a home page, a calendar and event management.
 Here's how it looks till now:
 
 ![sample](https://i.imgur.com/K7XMyVV.png)
